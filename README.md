@@ -1,5 +1,3 @@
 # WordPress
 
-This is a readme file
-
-for now...
+This is a readme file for portfolio wp
