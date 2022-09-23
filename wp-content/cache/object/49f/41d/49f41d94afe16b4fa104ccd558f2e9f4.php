@@ -1,0 +1,1 @@
+‹Ï$c<?php exit; ?>a:1:{s:7:"content";s:97:"a:1:{s:53:"child-theme-configurator/child-theme-configurator.php";s:22:"chld_thm_cfg_uninstall";}";}

@@ -1,0 +1,1 @@
+ÌP c<?php exit; ?>a:1:{s:7:"content";a:7:{i:0;s:10:"ime_autora";i:1;s:4:"opis";i:2;s:15:"godina_rodjenja";i:3;s:12:"godina_smrti";i:4;s:18:"najznacajnija_dela";i:5;s:11:"total_sales";i:6;s:22:"et_enqueued_post_fonts";}}

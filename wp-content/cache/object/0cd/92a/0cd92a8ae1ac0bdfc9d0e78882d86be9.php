@@ -1,0 +1,9 @@
+Q c<?php exit; ?>a:1:{s:7:"content";a:12:{s:10:"_edit_lock";a:1:{i:0;s:12:"1662486030:1";}s:49:"_et_builder_dynamic_assets_loading_attr_threshold";a:1:{i:0;s:1:"5";}s:13:"_thumbnail_id";a:1:{i:0;s:3:"181";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:4:"opis";a:1:{i:0;s:1242:"Onore de Balzak rođen je 1799. godine. Bio je dramaturg, pripovedač i francuski romanopisac. Jedan od onih koji su pisali realistične romane.
+
+Rodio se u građanskoj porodici i planirao je advokatsku karijeru. No, pošto nije nikada dobijao dovoljno topline i ljubavi od svoje porodice, 1820. godine je raskinuo sve veze sa njom. Tada je odlučio da se preseli u Pariz te posveti život književnosti.
+
+Pomalo se razočarao kada nije uspeo da ostvari književničku karijeru na brz i lak način te se posvećuje sumnjivim poslovima. Neuspeli poslovi i razne špekulacije dovode ga do velikih problema sa novcem. Nakon toga posvetio se književnosti i neumorno radio ceo život kako bi vratio tada nastale dugove.
+
+1829. godine izdaje roman “Šuani” i to je jedan deo koji je činio “Ljudsku komediju”. U “Ljudskoj komediji” opisao je svoje viđenje francuskog društva početkom 19. veka. U vrlo kratkom razdoblju od samo dvadeset godina stvorio je više od stotinu dela. Njegovi najpoznatiji romani su: “Izgubljene iluzije”, “Čiča Gorio”, “Rođak Pons”, “Seljaci”, “Rođaka Bet”, “Luj Lamber”.
+
+Umro je u Parizu, potpuno iscrpljen radom i vraćanjem dugova u 51. godini života, 1850. godine.";}s:5:"_opis";a:1:{i:0;s:19:"field_63177e11b1396";}s:15:"godina_rodjenja";a:1:{i:0;s:8:"19950915";}s:16:"_godina_rodjenja";a:1:{i:0;s:19:"field_63177e35b1397";}s:12:"godina_smrti";a:1:{i:0;s:8:"20050923";}s:13:"_godina_smrti";a:1:{i:0;s:19:"field_63177ecdb1398";}s:18:"najznacajnija_dela";a:1:{i:0;s:0:"";}s:19:"_najznacajnija_dela";a:1:{i:0;s:19:"field_63178440c78aa";}}}

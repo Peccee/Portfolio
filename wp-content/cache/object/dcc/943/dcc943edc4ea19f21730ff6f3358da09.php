@@ -1,0 +1,1 @@
+A¡!c<?php exit; ?>a:1:{s:7:"content";a:1:{s:138:"limit=4&exclude_ids%5B0%5D=0&exclude_ids%5B1%5D=49&exclude_ids%5B2%5D=47&exclude_ids%5B3%5D=45&exclude_ids%5B4%5D=43&exclude_ids%5B5%5D=41";a:2:{i:0;s:2:"36";i:1;s:2:"39";}}}
