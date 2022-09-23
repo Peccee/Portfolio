@@ -1,0 +1,11 @@
+^�-c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1277;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-09-15 17:53:17";s:13:"post_date_gmt";s:19:"2022-09-15 17:53:17";s:12:"post_content";s:1363:"<!-- wp:paragraph -->
+<p>MCSA kurs (Microsoft® Certified Solutions Associate – administrator sistema sa Microsoftovim sertifikatom) je projektovan za profesionalce koji implementiraju, upravljaju i rešavaju probleme u postojećim mrežnim i sistemskim okruženjima zasnovanim na Microsoft Windows Server 2016 platformama. Preko 80% računara pokreće Microsoft operativni sistem. Serverski sistemi često predstavljaju ključni deo svakodnevnih operacija za bilo koji posao. Zadatak MCSA sistem inženjera je da održava stotine i hiljade korisnika na 2 do 100 lokacija. Mrežni servisi i resursi obuhvataju poruke, baze podataka, datoteke i štampače, proksi servere ili mrežne barijere, Internet i intranet, daljinske pristupe i upravljanje klijentskim računarima. Potrebe povezivanja obuhvataju povezivanje poslovnica i pojedinačnih korisnika na udaljenim lokacijama sa korporacijskom mrežom i povezivanje korporacijske mreže sa Internetom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nakon obuke sledi polaganje za sertifikat. Za dobijanje MCSA sertifikata neophodno je položiti:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>70-740 – Installation, Storage, and Compute with Windows Server 2016</li><li>70-741 – Networking with Windows Server 2016</li><li>70-742 – Identity with Windows Server 2016</li></ul>
+<!-- /wp:list -->";s:10:"post_title";s:19:"MICROSOFT Certified";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:19:"microsoft-certified";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-09-17 13:48:45";s:17:"post_modified_gmt";s:19:"2022-09-17 13:48:45";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:80:"https://pjovanovic.wppsbootcamp.com/projekat/?post_type=certificates&#038;p=1277";s:10:"menu_order";i:0;s:9:"post_type";s:11:"sertifikati";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

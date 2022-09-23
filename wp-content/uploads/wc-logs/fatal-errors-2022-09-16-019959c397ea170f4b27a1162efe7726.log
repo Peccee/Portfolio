@@ -1,0 +1,24 @@
+2022-09-16T21:06:16+00:00 CRITICAL Cannot redeclare change_rp_text() (previously declared in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:42) in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 90
+
+2022-09-16T21:06:20+00:00 CRITICAL Cannot redeclare change_rp_text() (previously declared in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:42) in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 90
+
+2022-09-16T21:06:47+00:00 CRITICAL Cannot redeclare change_rp_text() (previously declared in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:42) in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 90
+
+2022-09-16T21:07:03+00:00 CRITICAL Cannot redeclare change_rp_text() (previously declared in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php:42) in /home/pjovanovic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 90
+
+2022-09-16T22:00:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to WC_Admin_Assets::is_order_meta_box_screen() must be of the type string, null given, called in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 277 and defined in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php:503
+Stack trace:
+#0 /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php(277): WC_Admin_Assets->is_order_meta_box_screen(NULL)
+#1 /home/pjovanovic/public_html/projekat/wp-includes/class-wp-hook.php(307): WC_Admin_Assets->admin_scripts('')
+#2 /home/pjovanovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/pjovanovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/pjovanovic/public_html/projekat/wp-content/plugins/polylang/modules/wizard/view-wizard-page.php(35): do_action('admin_enqueue_s. in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 503
+
+2022-09-16T22:00:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to WC_Admin_Assets::is_order_meta_box_screen() must be of the type string, null given, called in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 277 and defined in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php:503
+Stack trace:
+#0 /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php(277): WC_Admin_Assets->is_order_meta_box_screen(NULL)
+#1 /home/pjovanovic/public_html/projekat/wp-includes/class-wp-hook.php(307): WC_Admin_Assets->admin_scripts('')
+#2 /home/pjovanovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/pjovanovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/pjovanovic/public_html/projekat/wp-content/plugins/polylang/modules/wizard/view-wizard-page.php(35): do_action('admin_enqueue_s. in /home/pjovanovic/public_html/projekat/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 503
+

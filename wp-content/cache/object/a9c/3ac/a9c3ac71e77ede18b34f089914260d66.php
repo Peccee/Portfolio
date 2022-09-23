@@ -1,0 +1,11 @@
+^�-c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1168;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-09-15 16:13:31";s:13:"post_date_gmt";s:19:"2022-09-15 16:13:31";s:12:"post_content";s:1392:"<!-- wp:paragraph -->
+<p>Za naše klijente otvoreni smo i za uslugu dugoročnog iznajmljivanja IT opreme. Modeli mogu biti:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Iznajmljivanje opreme bez dodatne podrške koji podrazumeva da klijent koristi našu opremu ali je samostalno održava, ažurira itd.</li><li>Iznajmljivanje opreme sa dodatnom podrškom čime kompletno preuzimamo odgovornost za rad, pouzdanost i bezbednost vaše opreme (Managed Service). U okviru ovog modela iznajmljujemo, održavamo, ažuriramo i vodimo evidenciju opreme što klijentu omogućava punu posvetu poslovnim aktivnostima. Kao primer možemo navesti iznajmljivanje računara koje u slučaju kvarova (hardware ili software) vraćamo u ispravno stanje u skladu sa SLA (Service Level Agreement kojim je definisano vreme vraćanja opreme u ispravno stanje), ažuriramo ih u skladu sa bezbednosnim politikama na strani klijenta i preporukama Microsofta (instalacija bezbednosnih paketa, upgrade operativnih sistema, …).</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Svojim višedecenijskim iskustvom na tržištu informacionih tehnologija i mrežom partnerstava sa najvećim vendorima (Microsoft, Cisco, HP, Dell, Lenovo) i distributerima (Comtrade Distribution, EWE Computers, KimTec, PIN, iStyle …) garantujemo svojim klijentima za pouzdanost iznajmljene IT opreme.</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:24:"Iznajmljivanje IT Opreme";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"iznajmljivanje-it-opreme";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-09-17 14:01:11";s:17:"post_modified_gmt";s:19:"2022-09-17 14:01:11";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:79:"https://pjovanovic.wppsbootcamp.com/projekat/?post_type=it-services&#038;p=1168";s:10:"menu_order";i:0;s:9:"post_type";s:6:"usluge";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

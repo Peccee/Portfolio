@@ -1,0 +1,1 @@
+^Ó-c<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_lock";a:1:{i:0;s:12:"1663423282:1";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1272";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:20:"_et_pb_post_hide_nav";a:1:{i:0;s:7:"default";}s:18:"_et_pb_page_layout";a:1:{i:0;s:16:"et_right_sidebar";}s:15:"_et_pb_side_nav";a:1:{i:0;s:3:"off";}}}
