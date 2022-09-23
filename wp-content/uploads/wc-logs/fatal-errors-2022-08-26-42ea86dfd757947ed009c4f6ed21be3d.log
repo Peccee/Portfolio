@@ -1,0 +1,33 @@
+2022-08-26T20:43:37+00:00 CRITICAL Uncaught Error: The script tried to modify a property on an incomplete object. Please ensure that the class definition "ShortPixel\AI\Options\Collection" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php:355
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php(341): Inpsyde\SearchReplace\Database\Replace->recursive_unserialize_replace('http//', 'https//', Object(__PHP_Incomplete_Class), false)
+#1 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php(222): Inpsyde\SearchReplace\Database\Replace->recursive_unserialize_replace('http//', 'https//', 'O:32:"ShortPixe...')
+#2 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php(93): Inpsyde\SearchReplace\Database\Replace->replace_values('http//', 'https//', 'wp_options', NULL)
+#3 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/SearchReplace.php(214): Inpsyde\SearchReplace\Database\Replace->run_search_replace('http//', 'https//', Array, NULL)
+#4 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/SearchReplace.php(131): Inpsyde\SearchReplace\Page\SearchReplace->run_replace('http//', 'https//', Array, true, NULL)
+#5 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/Manager.php(50): Inpsyde\SearchReplace\Page\SearchReplace->save()
+#6 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/Manager.php(125): Inpsyde\SearchReplace\Page\Manager->save()
+#7 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(307): Inpsyde\SearchReplace\Page\Manager->render('')
+#8 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/pjovanovic/public_html/digitel/wp-admin/admin.php(259): do_action('tools_page_sear...')
+#11 /home/pjovanovic/public_html/digitel/wp-admin/tools.php(40): require_once('/home/pjovanovi...')
+#12 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php on line 355
+
+2022-08-26T20:44:12+00:00 CRITICAL Uncaught Error: The script tried to modify a property on an incomplete object. Please ensure that the class definition "ShortPixel\AI\Options\Collection" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php:355
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php(341): Inpsyde\SearchReplace\Database\Replace->recursive_unserialize_replace('http://pjovanov...', 'https://pjovano...', Object(__PHP_Incomplete_Class), false)
+#1 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Exporter.php(484): Inpsyde\SearchReplace\Database\Replace->recursive_unserialize_replace('http://pjovanov...', 'https://pjovano...', 'O:32:"ShortPixe...')
+#2 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Exporter.php(187): Inpsyde\SearchReplace\Database\Exporter->backup_table('http://pjovanov...', 'https://pjovano...', 'wp_options', '', NULL)
+#3 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/ReplaceDomain.php(71): Inpsyde\SearchReplace\Database\Exporter->db_backup('http://pjovanov...', 'https://pjovano...', Array, true, '')
+#4 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/Manager.php(50): Inpsyde\SearchReplace\Page\ReplaceDomain->save()
+#5 /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Page/Manager.php(125): Inpsyde\SearchReplace\Page\Manager->save()
+#6 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(307): Inpsyde\SearchReplace\Page\Manager->render('')
+#7 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#9 /home/pjovanovic/public_html/digitel/wp-admin/admin.php(259): do_action('tools_page_repl...')
+#10 /home/pjovanovic/public_html/digitel/wp-admin/tools.php(40): require_once('/home/pjovanovi...')
+#11 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-content/plugins/search-and-replace/inc/Database/Replace.php on line 355
+

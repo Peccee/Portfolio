@@ -1,0 +1,1 @@
+å«0c<?php exit; ?>a:1:{s:7:"content";a:7:{i:0;s:25:"Upgrade Insecure Requests";i:1;s:16:"X-XSS protection";i:2;s:22:"X-Content Type Options";i:3;s:15:"Referrer-Policy";i:4;s:15:"X-Frame-Options";i:5;s:18:"Permissions-Policy";i:6;s:30:"HTTP Strict Transport Security";}}

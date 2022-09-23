@@ -1,0 +1,12 @@
+2022-09-08T21:06:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 2246
+
+2022-09-08T21:08:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 1509
+
+2022-09-08T22:21:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 1509
+
+2022-09-08T22:26:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 1509
+
+2022-09-08T22:34:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 1509
+
+2022-09-08T22:45:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pjovanovic/public_html/digitel/wp-includes/wp-db.php on line 1509
+

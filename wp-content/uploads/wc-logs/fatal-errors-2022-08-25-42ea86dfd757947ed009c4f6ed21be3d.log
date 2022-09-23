@@ -1,0 +1,54 @@
+2022-08-25T14:34:16+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/pjovanovic/public_html/digitel/wp-content/themes/astra-child/functions.php on line 28
+
+2022-08-25T14:34:22+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/pjovanovic/public_html/digitel/wp-content/themes/astra-child/functions.php on line 28
+
+2022-08-25T20:22:50+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/includes/plugin.php(691): do_action('activate_http-h...', false)
+#3 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(58): activate_plugin('http-https-remo...', 'https://pjovano...', false)
+#4 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
+2022-08-25T20:22:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(194): do_action('activate_http-h...')
+#3 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
+2022-08-25T20:22:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(194): do_action('activate_http-h...')
+#3 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
+2022-08-25T20:23:09+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/includes/plugin.php(691): do_action('activate_http-h...', false)
+#3 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(58): activate_plugin('http-https-remo...', 'https://pjovano...', false)
+#4 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
+2022-08-25T20:23:10+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(194): do_action('activate_http-h...')
+#3 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
+2022-08-25T20:23:10+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php:307
+Stack trace:
+#0 /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#1 /home/pjovanovic/public_html/digitel/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#2 /home/pjovanovic/public_html/digitel/wp-admin/plugins.php(194): do_action('activate_http-h...')
+#3 {main}
+  thrown in /home/pjovanovic/public_html/digitel/wp-includes/class-wp-hook.php on line 307
+
